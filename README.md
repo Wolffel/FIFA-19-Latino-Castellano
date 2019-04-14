@@ -1,5 +1,6 @@
 # Fifa-19-Español-Latino-Castellano
-Mod para pasar del idioma Español Latino al Castellano.
+Mod para pasar del idioma Español Latino al Castellano. (Probado solo en la version original del juego (not CPY or cracked versions of the game)).
+
 (Para los que no les aparece la opcion del idioma Español de España en el juego).
 Este mod sustituye el idioma Latino a Español de España (Castellano). En el juego deberan de elegir el idioma con la bandera de 
 Méjico (solo cambian los textos no las voces)
