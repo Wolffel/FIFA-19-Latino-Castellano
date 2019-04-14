@@ -15,4 +15,4 @@ Pasos para instalar el mod:
    importar mods (import mods).
 6. Seleccione el archivo .rar que ha descargado (no extraiga el mod, solo seleccione el .rar e importe el mod).
 7. Si todo fue correcto, verá la bandera de España y su próximo paso es hacer click en la opción de lanzamiento.
-8. Disfruta de la mod!
+8. Disfruta del mod!
